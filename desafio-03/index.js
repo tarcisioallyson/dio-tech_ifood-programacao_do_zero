@@ -5,7 +5,6 @@ class Heroi{
         this.nome = nome
         this.idade = idade
         this.tipo = tipo
-        this.ataque = ""
     }
 
     //Método para verificar o tipo de ataque
